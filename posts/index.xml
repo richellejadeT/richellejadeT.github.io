@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello! on Richelle Jade Tuquero</title>
-    <link>https://richellejadeT.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Hello! on Richelle Jade Tuquero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</managingEditor>
     <webMaster>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</webMaster>
     <copyright>© 2025 Richelle Jade L. Tuquero</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://richellejadeT.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://richellejadeT.github.io/posts/others/_others/</link>
+      <link>http://localhost:1313/posts/others/_others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/others/_others/</guid>
+      <guid>http://localhost:1313/posts/others/_others/</guid>
       <description>Presented in an oral presentation in the 39th Samahang Pisika ng Pilipinas Physics Conference. In here, we highlight the influence of dissipation and lattice depth to the lifetime of continuous time crystals in an atom-cavity system.</description>
       
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://richellejadeT.github.io/posts/about/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/about/</guid>
+      <guid>http://localhost:1313/posts/about/</guid>
       <description>Something about me</description>
       
     </item>
     
     <item>
       <title>BS and MS research</title>
-      <link>https://richellejadeT.github.io/posts/research/bsandms/</link>
+      <link>http://localhost:1313/posts/research/bsandms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/research/bsandms/</guid>
+      <guid>http://localhost:1313/posts/research/bsandms/</guid>
       <description>Summaries of my research experience during undergrad and masters in UP Diliman.</description>
       
     </item>
     
     <item>
       <title>List of Publications</title>
-      <link>https://richellejadeT.github.io/posts/research/listofpublication/</link>
+      <link>http://localhost:1313/posts/research/listofpublication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/research/listofpublication/</guid>
+      <guid>http://localhost:1313/posts/research/listofpublication/</guid>
       <description>This contains the publications, papers, and conferences I have attended.</description>
       
     </item>
     
     <item>
       <title>PhD research</title>
-      <link>https://richellejadeT.github.io/posts/research/dissertation/</link>
+      <link>http://localhost:1313/posts/research/dissertation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/research/dissertation/</guid>
+      <guid>http://localhost:1313/posts/research/dissertation/</guid>
       <description>This is my first post!</description>
       
     </item>
     
     <item>
       <title>Trying QuantumOptics.jl</title>
-      <link>https://richellejadeT.github.io/posts/others/quantumoptics/</link>
+      <link>http://localhost:1313/posts/others/quantumoptics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/others/quantumoptics/</guid>
+      <guid>http://localhost:1313/posts/others/quantumoptics/</guid>
       <description>Implementation and replication of examples in QuantumOptics.jl.</description>
       
     </item>

@@ -1,107 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-
-<url>
-  <loc>https://richellejadet.github.io/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/about/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/research/dissertation/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/research/bsandms/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/research/listofpublication/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/tutzingschool/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/berlinkickstart/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/quantnoise/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/others/quantumoptics/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/phdstart/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/msdefense/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/liknayan_g/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/spp2023/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/spp2022/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/bsdefense/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/second/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/page/2/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://richellejadet.github.io/posts/news/first/</loc>
-  <lastmod>2025-05-12T19:40:33+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/tutzingschool/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/berlinkickstart/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/quantnoise/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/phdstart/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/msdefense/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/liknayan_g/</loc>
+    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/spp2023/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/spp2022/</loc>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/bsdefense/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/second/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/news/first/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/others/_others/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/about/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/research/bsandms/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/research/listofpublication/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/research/dissertation/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/others/quantumoptics/</loc>
+  </url>
 </urlset>
