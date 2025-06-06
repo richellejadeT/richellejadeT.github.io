@@ -2,31 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Publication on Richelle Jade Tuquero</title>
-    <link>http://localhost:1313/tags/new-publication/</link>
+    <link>https://richellejadeT.github.io/tags/new-publication/</link>
     <description>Recent content in New Publication on Richelle Jade Tuquero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</managingEditor>
     <webMaster>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</webMaster>
     <copyright>© 2025 Richelle Jade L. Tuquero</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/new-publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://richellejadeT.github.io/tags/new-publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Limit torus in a quantum gas setup</title>
+      <link>https://richellejadeT.github.io/posts/news/limittorus/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
+      <guid>https://richellejadeT.github.io/posts/news/limittorus/</guid>
+      <description>Using bifurcation theory, we demonstrate that a limit cycle instability in a quantum system can lead to the emergence of a limit torus.</description>
+      
+    </item>
     
     <item>
       <title>Smooth transition to dynamical phases due to quantum noise</title>
-      <link>http://localhost:1313/posts/news/quantnoise/</link>
+      <link>https://richellejadeT.github.io/posts/news/quantnoise/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>http://localhost:1313/posts/news/quantnoise/</guid>
+      <guid>https://richellejadeT.github.io/posts/news/quantnoise/</guid>
       <description>We showed how quantum noise affects the general transition or cross-over from stationary to dyanmical phase such as LCs.</description>
       
     </item>
     
     <item>
       <title>Stable and Metastable Dissipative Time Crystal</title>
-      <link>http://localhost:1313/posts/news/second/</link>
+      <link>https://richellejadeT.github.io/posts/news/second/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>http://localhost:1313/posts/news/second/</guid>
+      <guid>https://richellejadeT.github.io/posts/news/second/</guid>
       <description>We showed that stable dissipative time crystals can exist beyond the ideal limit and introduced a new phase, the prethermal dissipative time crystal in an atom-cavity system.</description>
       
     </item>
