@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Achievement on Richelle Jade Tuquero</title>
-    <link>https://richellejadeT.github.io/tags/achievement/</link>
+    <link>http://localhost:1313/tags/achievement/</link>
     <description>Recent content in Achievement on Richelle Jade Tuquero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</managingEditor>
     <webMaster>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</webMaster>
     <copyright>© 2025 Richelle Jade L. Tuquero</copyright>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://richellejadeT.github.io/tags/achievement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/achievement/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Moving to Germany for my PhD!</title>
-      <link>https://richellejadeT.github.io/posts/news/phdstart/</link>
+      <link>http://localhost:1313/posts/news/phdstart/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/news/phdstart/</guid>
+      <guid>http://localhost:1313/posts/news/phdstart/</guid>
       <description>Officially joined the QUEST group under Prof. Dr. Zilberberg!</description>
       
     </item>
     
     <item>
       <title>MS thesis defended!</title>
-      <link>https://richellejadeT.github.io/posts/news/msdefense/</link>
+      <link>http://localhost:1313/posts/news/msdefense/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/news/msdefense/</guid>
+      <guid>http://localhost:1313/posts/news/msdefense/</guid>
       <description>Successfully defended my Master of Science Thesis last 06 June 2024 entitled Phase-space methods and dynamical phases in an atom-cavity model.</description>
       
     </item>
     
     <item>
       <title>BS thesis defense!</title>
-      <link>https://richellejadeT.github.io/posts/news/bsdefense/</link>
+      <link>http://localhost:1313/posts/news/bsdefense/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <author>richellejade.l.tuquero@gmail.com (Richelle Jade L. Tuquero)</author>
-      <guid>https://richellejadeT.github.io/posts/news/bsdefense/</guid>
+      <guid>http://localhost:1313/posts/news/bsdefense/</guid>
       <description>Successfully defended my Bachelor of Science Thesis last 01 June 2022 entitled Influence of harmonic confinement and contact interaction in an atom-cavity system.</description>
       
     </item>
